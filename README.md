@@ -1,12 +1,10 @@
-<p align="center">
-<p style="font-size:85px" align="center"> Exorde Participation Module CLI v1.3.1 
-<p align="center">
-  <img height="50" height="auto" src="https://user-images.githubusercontent.com/112532410/200643438-8cea10cd-2c5e-40f6-8def-b30e5bd47e9f.jpeg">
+<p style="font-size:14px" align="right">
+<a href="https://t.me/Dunicryptoo" target="_blank">Join Telegram Airdrop<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
 </p>
 
 # Exorde Participation Module CLI v1.3.1
 
-[ Github Exorde ](https://github.com/exorde-labs/ExordeModuleCLI/)
+[ This is a work in progress ](https://github.com/exorde-labs/ExordeModuleCLI/)
 
 ## Instructions
 You have two choices to run the Exorde CLI : 
@@ -188,3 +186,11 @@ Sometimes, Exorde Labs needs to push some update in the code. The module will de
 This is important for the Exorde Network to remain hommogenous, so older versions have to be killed right away.
 
 When this happens, the module will print a message & shut down.
+
+
+<p style="font-size:14px" align="right">
+<a href="https://t.me/DCIDcom" target="_blank">Join Telegram Diskusi<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+</p>
+<p style="font-size:14px" align="lefth">
+<a href="https://t.me/DCID_com" target="_blank">Join Telegram Airdrop<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+</p>
